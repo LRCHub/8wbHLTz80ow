@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Rhapsody",
+  "base_artist": "Empty old City",
+  "createdAt": "2026-03-08T04:16:32.733861Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/01_Bohemian_Rhapsody_Queen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/02_Bohemian_Rhapsody_Queen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody",
+      "artist": "The Braids",
+      "has_synced": true,
+      "path": "select/03_Bohemian_Rhapsody_The_Braids.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody",
+      "artist": "The Braids",
+      "has_synced": false,
+      "path": "select/04_Bohemian_Rhapsody_The_Braids.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody (Stripped-Down mix)",
+      "artist": "The Braids",
+      "has_synced": false,
+      "path": "select/05_Bohemian_Rhapsody_(Stripped-Down_mix)_The_Braids.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody (a cappella)",
+      "artist": "The Braids",
+      "has_synced": false,
+      "path": "select/06_Bohemian_Rhapsody_(a_cappella)_The_Braids.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody (acoustic)",
+      "artist": "The Braids",
+      "has_synced": false,
+      "path": "select/07_Bohemian_Rhapsody_(acoustic)_The_Braids.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody (radio mix)",
+      "artist": "The Braids",
+      "has_synced": false,
+      "path": "select/08_Bohemian_Rhapsody_(radio_mix)_The_Braids.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rhapsody",
+      "artist": "Siouxsie & The Banshees",
+      "has_synced": true,
+      "path": "select/09_Rhapsody_Siouxsie_&_The_Banshees.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rhapsody",
+      "artist": "Siouxsie and the Banshees",
+      "has_synced": true,
+      "path": "select/10_Rhapsody_Siouxsie_and_the_Banshees.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Post Modern Rhapsody",
+      "artist": "WARGASM (UK)",
+      "has_synced": false,
+      "path": "select/11_Post_Modern_Rhapsody_WARGASM_(UK).txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody",
+      "artist": "Emilie Autumn",
+      "has_synced": true,
+      "path": "select/12_Bohemian_Rhapsody_Emilie_Autumn.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Big Medley: In the Flesh? / Carry On Wayward Son / Bohemian Rhapsody / Lovin', Touchin', Squeezin' / Cruise Control / Turn It On Again (Live)",
+      "artist": "Dream Theater",
+      "has_synced": false,
+      "path": "select/13_The_Big_Medley__In_the_Flesh____Carry_On_Wayward_Son___Bohemian_Rhapsody___Lovin_Dream_Theater.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Brohemian Rhapsody",
+      "artist": "Blink-182",
+      "has_synced": true,
+      "path": "select/14_Brohemian_Rhapsody_Blink-182.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rhapsody",
+      "artist": "Empty old City",
+      "has_synced": false,
+      "path": "select/pl_01_Rhapsody_Empty_old_City.txt"
+    }
+  ]
+}
